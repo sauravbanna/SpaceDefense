@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpaceInvaders</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_start_screen">startScreen</string>
+    <string name="title_activity_game_screen">gameScreen</string>
+    <string name="title_activity_game_over">gameOver</string>
+    <string name="you_died">YOU DIED!</string>
+    <string name="settings">SETTINGS</string>
+    <string name="tutorial_on_off">Tutorial On</string>
+    <string name="sound_on_off">Sound On</string>
+</resources>
